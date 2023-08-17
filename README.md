@@ -14,7 +14,7 @@
 
 ````json
 {
-    "file": "file"
+    form-data -- file (.csv)
 }
 ````
 
