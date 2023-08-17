@@ -13,9 +13,7 @@
 ### Endpoint: POST /api/files
 
 ````json
-{
     form-data -- file (.csv)
-}
 ````
 
 ### Response Body (Success)
